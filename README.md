@@ -47,3 +47,20 @@ Users are able to:
 3. Display all potential orders if not currently conducting a delivery. 
 4. Accept & Decline a potential order. Cancel an ongoing delivery.
 5. Display Map indicating the direction to the next checkpoint in the delivery process.
+
+# User Flow
+### Grocery Store User - Uploading Donation Inventory
+![alt text](https://docs.google.com/drawings/u/0/d/sliJrozK3L98Nk8Kr88LVzA/image?w=497&h=483&rev=604&ac=1&parent=18YRmccoXFLYU3TUFjhH735FIxxAIwY9G9BsvAJzWIwE) 
+
+
+### Food Bank User - Placing Order
+![alt text](https://lh5.googleusercontent.com/wyGamvxhi3MFMWSfB0GgTAcJ_sc8wxf8oB9za9p__fW1ackcfTX3PtTfp_qcSrmRhJ05oyuK5xgxgQzupXJVV043P2ZAq0IDFymY6AaF)
+
+### Grocery Store User - Tracking Active Order & Confirming Pick Up
+![alt text](https://lh3.googleusercontent.com/n_9flX7Euy77xrA_mXw73nfuHPUDA5xGc4DPucXtMP0Yjhk4WyY5erWTm8HGSyGwozQ-0WO2GXd2N4BmXDVRFk9v63Xc2q-gcBUcRoEl)
+
+### Food Bank User - Tracking Active Order & Confirming Delivery
+![alt text](https://docs.google.com/drawings/u/0/d/sX9Y8NR0cbcvXFmQohfAQ3A/image?w=497&h=355&rev=40&ac=1&parent=18YRmccoXFLYU3TUFjhH735FIxxAIwY9G9BsvAJzWIwE)
+
+### Driver User - Delivery An Order
+![alt text](https://docs.google.com/drawings/u/0/d/s4aBQB9y1PpYydu6kFdc3Sw/image?w=497&h=357&rev=709&ac=1&parent=18YRmccoXFLYU3TUFjhH735FIxxAIwY9G9BsvAJzWIwE)
